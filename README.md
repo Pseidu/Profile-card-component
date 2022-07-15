@@ -14,16 +14,14 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
 - Build out a profile card using the provided designs as a model. (./design)
 
 ### Screenshot
-My solution screenshot
-![](./screenshot.jpg)
+My solution screenshot:
+(./screenshot.jpg)
 
 ### Links
 - Solution URL: [https://github.com/Pseidu/Profile-card-component.git]
